@@ -1,0 +1,26 @@
+.areaContent > .row > label {
+  font-size: 25px;
+}
+
+.areaTitle > label {
+  font-size: 30px;
+}
+
+.frame {
+  margin: 30px;
+}
+
+.button {
+  margin: 10px;
+}
+
+.titleArea {
+  font-size: 50px;
+  color: chocolate;
+  background-color: #31CCEC;
+}
+
+.areaContent {
+  background-color: bisque;
+  margin-bottom: 20px;
+}
